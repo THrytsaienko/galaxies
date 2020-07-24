@@ -1,4 +1,4 @@
-# named-galaxies
+# galaxies
 
 > Nuxt.js project
 
