@@ -34,19 +34,19 @@ module.exports = {
         })
       }
     },
-    postcss: {
-      plugins: {
-        'postcss-url': false,
-        'postcss-nested': {},
-        'postcss-responsive-type': {},
-        'postcss-hexrgba': {}
-      },
-      preset: {
-        autoprefixer: {
-          grid: true
-        }
-      }
-    }
+    // postcss: {
+    //   plugins: {
+    //     'postcss-url': false,
+    //     'postcss-nested': {},
+    //     'postcss-responsive-type': {},
+    //     'postcss-hexrgba': {}
+    //   },
+    //   preset: {
+    //     autoprefixer: {
+    //       grid: true
+    //     }
+    //   }
+    // }
   }
 };
 

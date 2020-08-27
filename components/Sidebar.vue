@@ -10,7 +10,7 @@
   }
 </script>
 
-<style scoped lang="postcss">
+<style scoped lang="scss">
     .sidebar {
         &__container {
              background-color: #F9FAFB;
